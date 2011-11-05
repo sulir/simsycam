@@ -5,9 +5,9 @@ SimSyCam is a small Python script for Symbian S60 smartphones. It takes static p
 
 Controls
 --------
-`SelectKey` - take a photo
-`4` - exposure mode
-`5` - flash mode
+`SelectKey` - take a photo  
+`4` - exposure mode  
+`5` - flash mode  
 `6` - white balance
 
 Requirements
